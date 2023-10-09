@@ -1,0 +1,26 @@
+body{/*per centrar posar colo i en negreta*/
+    color: blueviolet;
+    text-align: center;
+    font-weight:bold;
+}
+
+
+table{/*per fer la taula*/
+    border: none;
+    text-align:center;
+    border-collapse: collapse;
+    margin: auto;
+    position: relative;
+    width: 80%;
+       
+}
+th{/*per centrar la capçalera,posar color al fons i en negreta*/
+    font-weight:bold;
+    text-align: center;
+    background-color: bisque;
+    
+}
+th,td{
+    outline-color: black;
+    border:1px solid black
+}
